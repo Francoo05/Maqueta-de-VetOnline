@@ -48,7 +48,7 @@ Imágenes/
 3. Interactúa con el formulario para ingresar datos de mascotas.
 
 ## Bash
- - git clone https://github.com/tu-usuario/vetonline.git
+ - git clone https://github.com/Francoo05/Maqueta-de-VetOnline
  - cd VetOnline
  - start index.html
 
